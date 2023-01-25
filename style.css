@@ -1,0 +1,26 @@
+body{
+  background-image: https://inspirationseek.com/wp-content/uploads/2016/02/Cute-Alaskan-Dog.jpg;
+}
+
+@media only screen and (max-width:600px) {
+  body{
+
+    background-color: #ffd7cb;
+}
+
+}
+h1{
+  color:#c8978e;
+  font-size: 40px;
+  text-align: center;
+  font-family: Playfair Display;
+}
+
+p {
+  color: black;
+  text-align: center;
+  font-family: helvetica;
+
+
+
+}
